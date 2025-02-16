@@ -64,4 +64,10 @@ coverage/
 .env.local
 .env.development.local
 .env.test.local
-.env.production.local 
+.env.production.local
+
+# 数据库
+*.sqlite3
+
+# 系统文件
+Thumbs.db 
