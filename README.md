@@ -86,5 +86,5 @@
 
 ### 前端
 - 启动开发服务器：`npm start` 或 `yarn start`
-![alt text](https://github.com/Cae1anSou/Course-selection-system-v0.1/blob/main/images/show001.jpg)
-![alt text](https://github.com/Cae1anSou/Course-selection-system-v0.1/blob/main/images/show002.jpg)
+![alt text](./images/show001.jpg)
+![alt text](./images/show002.jpg)
